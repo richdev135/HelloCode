@@ -1,3 +1,3 @@
 
-var msg = "Hello, GIT!!";
+var msg = "Hello, GIT!! - after cache";
 console.log(msg);
