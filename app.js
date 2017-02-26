@@ -1,3 +1,3 @@
 
-var msg = "Hello, world";
+var msg = "Hello, GIT!";
 console.log(msg);
